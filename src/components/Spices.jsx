@@ -49,7 +49,7 @@ const Spices = () => {
             repeat:Infinity,
             ease:easeInOut
         }}
-            className="" src="/ChatGPT Image Sep 18, 2026, 02_01_35 PM.png" alt="" />
+            className="w-70 md:w-110" src="/ChatGPT Image Sep 18, 2026, 02_01_35 PM.png" alt="" />
             </motion.div>
            
             <div className=" flex flex-col md:w-[50%] mt-10 gap-2 md:flex md:flex-col  md:items-center md:mt-20 ">

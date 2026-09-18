@@ -30,7 +30,7 @@ const About = () => {
                 <p className="flex justify-center items-center text-center text-white mt-8 font-['Comic_Relief',system_ui] font-medium text-[17px] ">Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Sequi rerum unde omnis aliquid perferendis maxime?</p>
                  <button  className=" px-3 py-1 mb-5  bg-amber-300 font-bold mt-10 rounded-2xl  shadow-[0_6px_0_#b91c1c]">ORDER NOW</button>
              </div>
-             <div className="flex flex-col gap-15  mt-15 md:flex md:flex-row md:gap-20 pb-10">
+             <div className="flex flex-col gap-15 sm:px-5 sm:gap-2 mt-15 md:flex md:flex-row md:gap-20 pb-10">
                 <motion.div 
                 whileHover={{
                     scale:1.2

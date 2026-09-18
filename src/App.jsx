@@ -11,12 +11,14 @@ import Spices from "./components/Spices"
 const App = () => {
   return (
     <>
+    <main className="overflow-x-hidden">
      <Navbar/>
      <Home/>
      <About/>
      <Spices/>
      <Location/>
      <Footer/>
+     </main>
     </>
   )
 }

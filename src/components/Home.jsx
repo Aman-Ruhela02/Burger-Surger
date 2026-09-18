@@ -7,8 +7,8 @@ const Home = () => {
       <div className="heading  ">
         <div className="pt-4 md:pt-8 flex flex-col justify-center items-center font-medium font-sans-serif text-[#461919]">
            <p>EST.2026 - SOMEWHERE GOOD</p>
-           <motion.h1 className="text-8xl md:text-[10rem] text-center font-sans-serif font-extrabold font-['Comic_Relief
-',system-ui]  [-webkit-text-stroke:3px_white] [text-shadow:0_8px_0_#D5B99D] text-[#E92B1B]  ">BURGER SURGER</motion.h1>
+           <motion.h1 className="text-[4.5rem] md:text-[10rem] text-center font-sans-serif font-extrabold 
+           font-['Comic_Relief',system-ui]  [-webkit-text-stroke:3px_white] [text-shadow:0_8px_0_#D5B99D] text-[#E92B1B]">BURGER SURGER</motion.h1>
         </div>
         
       </div>
