@@ -18,7 +18,7 @@ const Spices = () => {
             <h1 className="flex justify-center items-center text-center mt-5 font-extrabold text-[#ed2b1c] text-5xl font-['Indie_Flower',cursive] [-webkit-text-stroke:1px_white]">FOOD THAT</h1>
             <h2 className="flex justify-center items-center text-center mt-5 font-extrabold text-[#ed2b1c] text-5xl font-['Indie_Flower',cursive] [-webkit-text-stroke:1px_white]">FEELS GOOD</h2>
         </div>
-        <div ref={ref} className="flex flex-col ml-20 overflow-hidden  md:flex md:flex-row md:justify-between  mt-25 mr-20 mb-25">
+        <div ref={ref} className="flex flex-col justify-center items-center ml-20 overflow-hidden  md:flex md:flex-row md:justify-between  mt-25 mr-20 mb-25">
             <motion.div 
             animate={
                 isInView
