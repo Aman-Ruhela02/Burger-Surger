@@ -39,7 +39,7 @@ const Spices = () => {
             transition={{
                 duration:2
             }}
-            className="image w-[110] md:w-[40%] flex overflow:hidden "
+            className="image w-[60%] md:w-[40%] flex overflow:hidden "
             ><motion.img 
             animate={{
             y:[0,-10,0]
